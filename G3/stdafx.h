@@ -12,10 +12,15 @@
 #include <windows.h>
 
 // C RunTime Header Files
+#include <windows.h>
 #include <stdlib.h>
 #include <malloc.h>
 #include <memory.h>
 #include <tchar.h>
+#include <stdexcept>
+#include <iostream>
+#include <fstream>
+#include <comdef.h>
 
 
 // TODO: reference additional headers your program requires here
