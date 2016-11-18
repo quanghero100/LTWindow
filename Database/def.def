@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+insertTemplate @1
+updateTemplate @2
+deleteTemplate @3
+getAllTemplate @4
+searchTemplate @5
+getNumberTemplate @6
